@@ -1,0 +1,12 @@
+2022-02-08 14:23:36,793  INFO [main] BaseClass:17 - inside BeforeSuite
+ 2022-02-08 14:23:36,798  INFO [main] BaseClass:31 - browser initialization started
+ 2022-02-08 14:23:36,798  INFO [main] BaseClass:32 - reading property file for the key browser
+ 2022-02-08 14:24:10,851  INFO [main] BaseClass:43 - maximizing browser window
+ 2022-02-08 14:24:11,330  INFO [main] BaseClass:45 - applying browser level waits
+ 2022-02-08 14:24:11,363  INFO [main] BaseClass:48 - launching JBK offline application
+ 2022-02-08 14:24:17,387  INFO [main] BaseClass:56 - initalizing extent report
+ 2022-02-08 14:24:21,480  INFO [main] BaseClass:28 - excuting loginTest 
+ 2022-02-08 14:24:28,589  INFO [main] BaseClass:33 - login test passed
+ 2022-02-08 14:24:28,737  INFO [main] BaseClass:37 - excuting failed test
+ 2022-02-08 14:24:30,394  INFO [main] BaseClass:62 - capturing screenshot for failed testcases
+ 
